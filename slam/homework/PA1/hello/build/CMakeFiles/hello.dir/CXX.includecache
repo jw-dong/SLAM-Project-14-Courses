@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/hello.h
+
+/home/jiawei/slam/homework/PA1/hello/src/hello.cpp
+hello.h
+/home/jiawei/slam/homework/PA1/hello/src/hello.h
+iostream
+-
+

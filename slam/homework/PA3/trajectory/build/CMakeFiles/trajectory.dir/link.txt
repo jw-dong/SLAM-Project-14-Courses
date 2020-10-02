@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -g  -rdynamic CMakeFiles/trajectory.dir/src/draw_trajectory.cpp.o  -o trajectory 

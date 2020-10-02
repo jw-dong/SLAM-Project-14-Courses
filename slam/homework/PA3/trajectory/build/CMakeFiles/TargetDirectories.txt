@@ -1,0 +1,3 @@
+/home/jiawei/slam/homework/PA3/trajectory/build/CMakeFiles/rebuild_cache.dir
+/home/jiawei/slam/homework/PA3/trajectory/build/CMakeFiles/edit_cache.dir
+/home/jiawei/slam/homework/PA3/trajectory/build/CMakeFiles/trajectory.dir

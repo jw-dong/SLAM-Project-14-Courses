@@ -1,0 +1,4 @@
+/home/jiawei/slam/homework/PA7/BA/build/CMakeFiles/edit_cache.dir
+/home/jiawei/slam/homework/PA7/BA/build/CMakeFiles/ba_g2o.dir
+/home/jiawei/slam/homework/PA7/BA/build/CMakeFiles/rebuild_cache.dir
+/home/jiawei/slam/homework/PA7/BA/build/CMakeFiles/bal_common.dir

@@ -1,0 +1,3 @@
+/home/jiawei/slam/homework/PA7/BA direct/build/CMakeFiles/rebuild_cache.dir
+/home/jiawei/slam/homework/PA7/BA direct/build/CMakeFiles/edit_cache.dir
+/home/jiawei/slam/homework/PA7/BA direct/build/CMakeFiles/ba_direct.dir
